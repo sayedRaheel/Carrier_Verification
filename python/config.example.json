@@ -1,0 +1,6 @@
+{
+  "api_key": "YourApiKey",
+  "api_base_url": "https://saferwebapi.com/v2/usdot/snapshot",
+  "test_usdot": "44"
+}
+
